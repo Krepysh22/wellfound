@@ -1,0 +1,73 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+  color: black;
+}
+
+header {
+   vertical-align: 5px;
+	background-color: #ffffff;
+	color: #000000;
+	padding: 20px;
+}
+
+nav ul {
+   vertical-align: 10px;
+  text-align: center;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+  color: #000000;
+}
+hr {
+  width: 1150px;
+  margin: 30px auto;
+  border: 1px solid #cbc8c8;
+}
+
+nav li {
+
+	display: inline-block;
+	margin-right: 50px;
+}
+
+nav a {
+
+	color: #000000;
+	text-decoration: none;
+
+}
+
+main {
+	padding: 100px;
+}
+
+ button {
+    border: 1px solid #000000; /* Параметры рамки */
+    background: #000000; /* Цвет фона */
+    font-size: 14px; /* Размер текста */
+    padding: 5px 20px; /* Поля вокруг текста */
+   color: #ffffff;
+   }
+ a{
+   text-decoration: none;
+   color: white;
+ }
+
+h1 {
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 18px;
+	line-height: 1.5;
+}
+
+
+footer {
+	background-color: #ccc;
+	padding: 10px;
+	text-align: right;
+}
